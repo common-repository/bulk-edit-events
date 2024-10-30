@@ -1,0 +1,159 @@
+# Copyright (C) 2021 WP Sheet Editor
+# This file is distributed under the same license as the WP Sheet Editor - Events plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Sheet Editor - Events 1.0.40\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/events\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-11T22:07:13+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. Plugin Name of the plugin
+msgid "WP Sheet Editor - Events"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpsheeteditor.com/go/events-addon?utm_source=wp-admin&utm_medium=plugins-list&utm_campaign=events"
+msgstr ""
+
+#. Description of the plugin
+msgid "Edit events in spreadsheet."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Sheet Editor"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpsheeteditor.com/?utm_source=wp-admin&utm_medium=plugins-list&utm_campaign=events"
+msgstr ""
+
+#: events.php:79
+msgid "Please update the WP Sheet Editor plugin and all its extensions to the latest version. The features of the plugin \""
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:101
+msgid "Events"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:108
+msgid "Export times in friendly format?"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:109
+msgid "By default, we export times in format H:i:s. Activate this option to export with format like 7:00 pm."
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:115
+msgid "Export content as plain text?"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:116
+msgid "By default, we export the content as html, activate this option to strip the html and export as plain text."
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:165
+#: integrations/the-events-calendar-organizers.php:37
+#: integrations/the-events-calendar-venues.php:40
+msgid "Open spreadsheet."
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:166
+#: integrations/the-events-calendar-organizers.php:38
+#: integrations/the-events-calendar-venues.php:41
+msgid "Edit %s"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:300
+msgid "Start date"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:305
+msgid "Start time (H:i:s)"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:309
+msgid "End date"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:314
+msgid "End time (H:i:s)"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:320
+#: integrations/the-events-calendar-venues.php:66
+msgid "Origin"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:324
+#: integrations/the-events-calendar-venues.php:70
+msgid "WordPress"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:325
+#: integrations/the-events-calendar-venues.php:71
+msgid "Percentage discount"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:332
+msgid "Venue"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:342
+msgid "Organizer 1"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:347
+msgid "Organizer 2"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:352
+msgid "Organizer 3"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:357
+msgid "Currency position"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:361
+msgid "Before cost"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:362
+msgid "After cost"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:369
+msgid "Is featured"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:380
+#: integrations/the-events-calendar-venues.php:78
+msgid "Show map link"
+msgstr ""
+
+#: integrations/the-events-calendar-events.php:391
+#: integrations/the-events-calendar-venues.php:87
+msgid "Show map"
+msgstr ""
+
+#: integrations/the-events-calendar-venues.php:57
+msgid "Country"
+msgstr ""
+
+#: views/welcome-page-content.php:4
+msgid "Thank you for installing our plugin."
+msgstr ""
+
+#: views/welcome-page-content.php:9
+msgid "This plugin lets you edit events in the spreadsheet and it supports these event plugins: The Events Calendar by ModernTribe (we will add support for more plugins in the next update). This plugin requires one of those plugins."
+msgstr ""
+
+#: views/welcome-page-content.php:10
+msgid "In the left menu, go to \"WP Sheet Editor > Edit events\""
+msgstr ""

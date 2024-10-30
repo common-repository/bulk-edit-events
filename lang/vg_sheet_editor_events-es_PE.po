@@ -1,0 +1,158 @@
+# Copyright (C) 2019 WP Sheet Editor
+# This file is distributed under the same license as the WP Sheet Editor - Events plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Sheet Editor - Events 1.0.17\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/events\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-09 23:41+0000\n"
+"PO-Revision-Date: 2020-12-29 23:31-0600\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: es_PE\n"
+
+#. Plugin Name of the plugin
+msgid "WP Sheet Editor - Events"
+msgstr "Editor Masivo - Eventos"
+
+#. Plugin URI of the plugin
+msgid ""
+"https://wpsheeteditor.com/go/events-addon?utm_source=wp-"
+"admin&utm_medium=plugins-list&utm_campaign=events"
+msgstr ""
+
+#. Description of the plugin
+msgid "Edit events in spreadsheet."
+msgstr "Editar eventos en una hoja de cálculo."
+
+#. Author of the plugin
+msgid "WP Sheet Editor"
+msgstr "WP Sheet Editor"
+
+#. Author URI of the plugin
+msgid ""
+"https://wpsheeteditor.com/?utm_source=wp-admin&utm_medium=plugins-"
+"list&utm_campaign=events"
+msgstr ""
+
+#: events.php:74
+msgid ""
+"Please update the WP Sheet Editor plugin and all its extensions to the "
+"latest version, the CORE plugin should be version 2.5.3 or higher. The "
+"plugin \""
+msgstr ""
+"Por favor, actualiza el plugin WP Sheet Editor y todas sus extensiones a la "
+"última versión, el plugin NÚCLEO debe ser la versión 2.5.3 o superior. El "
+"plugin \""
+
+#: integrations/the-events-calendar-events.php:77
+#: integrations/the-events-calendar-organizers.php:37
+#: integrations/the-events-calendar-venues.php:40
+msgid "Open spreadsheet."
+msgstr "Abrir hoja de cálculo."
+
+#: integrations/the-events-calendar-events.php:78
+#: integrations/the-events-calendar-organizers.php:38
+#: integrations/the-events-calendar-venues.php:41
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: integrations/the-events-calendar-events.php:212
+msgid "Start date"
+msgstr "Fecha inicial"
+
+#: integrations/the-events-calendar-events.php:217
+msgid "Start time (H:i:s)"
+msgstr "Hora inicial (H:i:s)"
+
+#: integrations/the-events-calendar-events.php:221
+msgid "End date"
+msgstr "Fecha final"
+
+#: integrations/the-events-calendar-events.php:226
+msgid "End time (H:i:s)"
+msgstr "Hora final (H:i:s)"
+
+#: integrations/the-events-calendar-events.php:232
+#: integrations/the-events-calendar-venues.php:66
+msgid "Origin"
+msgstr "Origen"
+
+#: integrations/the-events-calendar-events.php:236
+#: integrations/the-events-calendar-venues.php:70
+msgid "WordPress"
+msgstr "WordPress"
+
+#: integrations/the-events-calendar-events.php:237
+#: integrations/the-events-calendar-venues.php:71
+msgid "Percentage discount"
+msgstr "Porcentaje de descuento"
+
+#: integrations/the-events-calendar-events.php:244
+msgid "Venue"
+msgstr "Lugar"
+
+#: integrations/the-events-calendar-events.php:254
+msgid "Organizer 1"
+msgstr "Organizador 1"
+
+#: integrations/the-events-calendar-events.php:259
+msgid "Organizer 2"
+msgstr "Organizador 2"
+
+#: integrations/the-events-calendar-events.php:264
+msgid "Organizer 3"
+msgstr "Organizador 3"
+
+#: integrations/the-events-calendar-events.php:269
+msgid "Currency position"
+msgstr "Posición en moneda"
+
+#: integrations/the-events-calendar-events.php:273
+msgid "Before cost"
+msgstr "Antes del costo"
+
+#: integrations/the-events-calendar-events.php:274
+msgid "After cost"
+msgstr "Después del costo"
+
+#: integrations/the-events-calendar-events.php:281
+msgid "Is featured"
+msgstr "Destacado"
+
+#: integrations/the-events-calendar-events.php:292
+#: integrations/the-events-calendar-venues.php:78
+msgid "Show map link"
+msgstr "Mostrar enlace al mapa"
+
+#: integrations/the-events-calendar-events.php:303
+#: integrations/the-events-calendar-venues.php:87
+msgid "Show map"
+msgstr "Mostrar mapa"
+
+#: integrations/the-events-calendar-venues.php:57
+msgid "Country"
+msgstr "País"
+
+#: views/welcome-page-content.php:4
+msgid "Thank you for installing our plugin."
+msgstr "Gracias por instalar nuestro plugin."
+
+#: views/welcome-page-content.php:9
+msgid ""
+"This plugin lets you edit events in the spreadsheet and it supports these "
+"event plugins: The Events Calendar by ModernTribe (we will add support for "
+"more plugins in the next update). This plugin requires one of those plugins."
+msgstr ""
+"Este plugin te permite editar eventos en la hoja de cálculo y soporta estos "
+"plugins de eventos: The Events Calendar de ModernTribe. Añadiremos soporte "
+"para más plugins en la próxima actualización. Este plugin requiere uno de "
+"esos plugins."
+
+#: views/welcome-page-content.php:10
+msgid "In the left menu, go to \"WP Sheet Editor > Edit events\""
+msgstr "En el menú izquierdo, ve a \"Editor Masivo > Editar eventos\"."
